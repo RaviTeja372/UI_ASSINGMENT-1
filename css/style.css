@@ -1,0 +1,281 @@
+.container {
+    margin: 0;
+    padding: 0;
+    background-color: #EAF2FF;
+    font-family: 'calibri';
+}
+
+
+
+.tittle_section {
+    position: absolute;
+    left: 200px;
+    top: 70px;
+    font-style: 'regular';
+    font-weight: 300%;
+
+}
+
+.tittle_caption {
+    font-family: 'calibri';
+    position: absolute;
+    left: 202px;
+    top: 104px;
+    font-style: 'regular';
+    font-weight: 300%;
+}
+
+.ticket_bar-1 {
+    background-color: white;
+    position: absolute;
+    width: 900px;
+    height: 100px;
+    border-radius: 10px;
+    left: 202px;
+    top: 170px;
+
+}
+
+.ticket_content_head-1 {
+    position: relative;
+    height: 46px;
+    bottom: 95px;
+    left: 147px;
+}
+.ticket_sub_content-1-1 {
+    position: relative;
+    bottom: 109px;
+    left: 147px;
+}
+.ticket_sub_content-1-2 {
+    position: relative;
+    bottom: 14px;
+}
+
+.D_T-1 {
+    background-color: #F6D9D5;
+    position: relative;
+    width: 99px;
+    height: 67px;
+    left: 20px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.D_T-1>p {
+    position: relative;
+    top: 10px;
+}
+
+.D_T-1>h3 {
+    position: relative;
+    bottom: 10px;
+    font-size: x-large;
+}
+
+.tittle_bar-1 {
+    position: relative;
+    display: inline-block;
+    left: 10px;
+    top: 8px;
+    margin: 0;
+    padding: 0;
+}
+.button-1 {
+    position: relative;
+    color: black;
+    background-color: white;
+    font-family: 'calibri';
+    border: none;
+    top: 210px;
+    left: 980px;
+}
+
+.ticket_bar-2 {
+    background-color: white;
+    position: absolute;
+    width: 900px;
+    height: 100px;
+    border-radius: 10px;
+    left: 202px;
+    top: 290px;
+
+}
+.ticket_content_head-2 {
+    position: relative;
+    left: 148px;
+    bottom: 95px;
+
+}
+.ticket_sub_content-2-1 {
+    position: relative;
+    left: 148px;
+    bottom: 95px;
+    width: 520px;
+    word-break: break-all;
+}
+.button-2 {
+    position: relative;
+    background-color: black;
+    color: white;
+    font-family: 'calibri';
+    border-radius: 5px;
+    height: 40px;
+    width: 130px;
+    left: 733px;
+    bottom: 177px;
+    font-size: 100%;
+    text-align: right;
+}
+
+.D_T-2 {
+    background-color: #F0FAD8;
+    position: relative;
+    width: 99px;
+    height: 67px;
+    left: 20px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.D_T-2>p {
+    position: relative;
+    top: 10px;
+}
+
+.D_T-2>h3 {
+    position: relative;
+    bottom: 10px;
+    font-size: x-large;
+}
+
+.tittle_bar-2 {
+    position: relative;
+    left: 10px;
+    top: 8px;
+}
+
+.ticket_bar-3 {
+    background-color: white;
+    position: absolute;
+    width: 900px;
+    height: 100px;
+    border-radius: 10px;
+    left: 202px;
+    top: 410px;
+
+}
+.ticket_content_head-3 {
+    position: relative;
+    bottom: 95px;
+    left: 147px;
+}
+.ticket_sub_content-3-1 {
+    position: relative;
+    left: 148px;
+    bottom: 95px;
+    width: 520px;
+    word-break: break-all;
+}
+.D_T-3 {
+    background-color: #D2E5F4;
+    position: relative;
+    width: 99px;
+    height: 67px;
+    left: 20px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.D_T-3>p {
+    position: relative;
+    top: 10px;
+}
+
+.D_T-3>h3 {
+    position: relative;
+    bottom: 10px;
+    font-size: x-large;
+}
+
+.tittle_bar-3 {
+    position: relative;
+    left: 10px;
+    top: 8px;
+}
+.button-3 {
+    position: relative;
+    background-color: black;
+    color: white;
+    font-family: 'calibri';
+    border-radius: 5px;
+    font-size: 100%;
+    width: 130px;
+    height: 40px;
+    left: 733px;
+    bottom: 174px;
+    text-align: right;
+}
+
+.ticket_bar-4 {
+    background-color: white;
+    position: absolute;
+    width: 900px;
+    height: 100px;
+    border-radius: 10px;
+    left: 202px;
+    top: 530px;
+
+}
+.ticket_content_head-4 {
+    position: relative;
+    left: 147px;
+    bottom: 92px;
+}
+.ticket_sub_content-4-1 {
+    position: relative;
+    left: 147px;
+    bottom: 95px;
+    width: 520px;
+    word-break: break-all;
+}
+
+.D_T-4 {
+    background-color: #E1D3F7;
+    position: relative;
+    width: 99px;
+    height: 67px;
+    left: 20px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.D_T-4>p {
+    position: relative;
+    top: 10px;
+}
+
+.D_T-4>h3 {
+    position: relative;
+    bottom: 10px;
+    font-size: x-large;
+}
+
+.tittle_bar-4 {
+    position: relative;
+    left: 10px;
+    top: 8px;
+}
+.button-4 {
+    position: relative;
+    background-color: black;
+    color: white;
+    font-family: 'calibri';
+    border-radius: 5px;
+    font-size: 100%;
+    width: 130px;
+    height: 40px;
+    left: 733px;
+    bottom: 174px;
+    text-align: right;
+}
