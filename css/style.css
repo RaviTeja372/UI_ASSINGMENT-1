@@ -1,146 +1,169 @@
-.container {
+body {
     margin: 0;
     padding: 0;
+    
+}
+
+
+.container {
     background-color: #EAF2FF;
     font-family: 'calibri';
+    max-width: 1000px;
+    margin: 0 auto;
+    height: 500px;
+
+
 }
 
 
 
 .tittle_section {
-    position: absolute;
-    left: 200px;
-    top: 70px;
-    font-style: 'regular';
-    font-weight: 300%;
+    position: relative;
+    left: 84px;
+    top: 40px;
 
 }
 
 .tittle_caption {
     font-family: 'calibri';
-    position: absolute;
-    left: 202px;
-    top: 104px;
-    font-style: 'regular';
-    font-weight: 300%;
+    position: relative;
+    left: 84px;
+    top: 19px;
 }
 
 .ticket_bar-1 {
     background-color: white;
-    position: absolute;
-    width: 900px;
-    height: 100px;
+    position: relative;
+    width: 800px;
+    height: 70px;
     border-radius: 10px;
-    left: 202px;
-    top: 170px;
+    margin: 0 auto;
+    top: 35px;
+
 
 }
 
 .ticket_content_head-1 {
     position: relative;
-    height: 46px;
-    bottom: 95px;
-    left: 147px;
+    padding: 0;
+    height: 56px;
+    bottom: 71px;
+    left: 125px;
+    font-size: small;
 }
+
 .ticket_sub_content-1-1 {
     position: relative;
+    font-size: small;
     bottom: 109px;
-    left: 147px;
+    left: 125px;
 }
+
 .ticket_sub_content-1-2 {
     position: relative;
     bottom: 14px;
+    font: small;
 }
 
 .D_T-1 {
     background-color: #F6D9D5;
     position: relative;
-    width: 99px;
-    height: 67px;
+    width: 90px;
+    height: 58px;
     left: 20px;
     border-radius: 15px;
     text-align: center;
+    top: 6px;
 }
 
 .D_T-1>p {
     position: relative;
     top: 10px;
+    font-size: small;
 }
 
 .D_T-1>h3 {
     position: relative;
     bottom: 10px;
-    font-size: x-large;
+    font-size: X-large;
 }
 
 .tittle_bar-1 {
     position: relative;
-    display: inline-block;
     left: 10px;
     top: 8px;
-    margin: 0;
-    padding: 0;
+
 }
+
 .button-1 {
     position: relative;
     color: black;
     background-color: white;
     font-family: 'calibri';
     border: none;
-    top: 210px;
-    left: 980px;
+    left: 730px;
+    bottom: 11px;
+
 }
 
 .ticket_bar-2 {
     background-color: white;
-    position: absolute;
-    width: 900px;
-    height: 100px;
+    position: relative;
+    width: 800px;
+    height: 70px;
+    margin: 0 auto;
     border-radius: 10px;
-    left: 202px;
-    top: 290px;
+    top: 15px;
+
 
 }
+
 .ticket_content_head-2 {
     position: relative;
-    left: 148px;
-    bottom: 95px;
+    left: 125px;
+    bottom: 75px;
+    font-size: small;
 
 }
+
 .ticket_sub_content-2-1 {
     position: relative;
-    left: 148px;
-    bottom: 95px;
+    left: 125px;
+    bottom: 83px;
     width: 520px;
     word-break: break-all;
+    font-size: small;
 }
+
 .button-2 {
     position: relative;
     background-color: black;
     color: white;
     font-family: 'calibri';
     border-radius: 5px;
-    height: 40px;
-    width: 130px;
-    left: 733px;
-    bottom: 177px;
-    font-size: 100%;
-    text-align: right;
+    height: 31px;
+    width: 100px;
+    left: 685px;
+    bottom: 140px;
+    font-size: 83%;
+    text-align: center;
 }
 
 .D_T-2 {
     background-color: #F0FAD8;
     position: relative;
-    width: 99px;
-    height: 67px;
+    width: 90px;
+    height: 58px;
     left: 20px;
     border-radius: 15px;
     text-align: center;
+    top: 6px;
 }
 
 .D_T-2>p {
     position: relative;
     top: 10px;
+    font-size: small;
 }
 
 .D_T-2>h3 {
@@ -157,39 +180,48 @@
 
 .ticket_bar-3 {
     background-color: white;
-    position: absolute;
-    width: 900px;
-    height: 100px;
+    position: relative;
+    width: 800px;
+    height: 70px;
+    margin: 0 auto;
     border-radius: 10px;
-    left: 202px;
-    top: 410px;
+    top: 15px;
+
+
 
 }
+
 .ticket_content_head-3 {
     position: relative;
-    bottom: 95px;
-    left: 147px;
+    bottom: 72px;
+    left: 125px;
+    font-size: small;
 }
+
 .ticket_sub_content-3-1 {
     position: relative;
-    left: 148px;
-    bottom: 95px;
+    left: 125px;
+    bottom: 80px;
     width: 520px;
+    font-size: small;
     word-break: break-all;
 }
+
 .D_T-3 {
     background-color: #D2E5F4;
     position: relative;
-    width: 99px;
-    height: 67px;
+    width: 90px;
+    height: 58px;
     left: 20px;
     border-radius: 15px;
     text-align: center;
+    top: 6px;
 }
 
 .D_T-3>p {
     position: relative;
     top: 10px;
+    font-size: small;
 }
 
 .D_T-3>h3 {
@@ -203,56 +235,64 @@
     left: 10px;
     top: 8px;
 }
+
 .button-3 {
     position: relative;
     background-color: black;
     color: white;
     font-family: 'calibri';
     border-radius: 5px;
-    font-size: 100%;
-    width: 130px;
-    height: 40px;
-    left: 733px;
-    bottom: 174px;
-    text-align: right;
+    height: 31px;
+    width: 100px;
+    left: 685px;
+    bottom: 140px;
+    font-size: 83%;
+    text-align: center;
 }
 
 .ticket_bar-4 {
     background-color: white;
-    position: absolute;
-    width: 900px;
-    height: 100px;
+    position: relative;
+    width: 800px;
+    height: 70px;
+    margin: 0 auto;
     border-radius: 10px;
-    left: 202px;
-    top: 530px;
+    top: 15px;
+
 
 }
+
 .ticket_content_head-4 {
     position: relative;
-    left: 147px;
-    bottom: 92px;
+    left: 125px;
+    bottom: 70px;
+    font-size: small;
 }
+
 .ticket_sub_content-4-1 {
     position: relative;
-    left: 147px;
-    bottom: 95px;
+    left: 125px;
+    bottom: 80px;
     width: 520px;
     word-break: break-all;
+    font-size: small;
 }
 
 .D_T-4 {
     background-color: #E1D3F7;
     position: relative;
-    width: 99px;
-    height: 67px;
+    width: 90px;
+    height: 58px;
     left: 20px;
     border-radius: 15px;
     text-align: center;
+    top: 6px;
 }
 
 .D_T-4>p {
     position: relative;
     top: 10px;
+    font-size: small;
 }
 
 .D_T-4>h3 {
@@ -266,16 +306,17 @@
     left: 10px;
     top: 8px;
 }
+
 .button-4 {
     position: relative;
     background-color: black;
     color: white;
     font-family: 'calibri';
     border-radius: 5px;
-    font-size: 100%;
-    width: 130px;
-    height: 40px;
-    left: 733px;
-    bottom: 174px;
-    text-align: right;
+    height: 31px;
+    width: 100px;
+    left: 685px;
+    bottom: 140px;
+    font-size: 83%;
+    text-align: center;
 }
